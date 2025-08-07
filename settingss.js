@@ -4,7 +4,7 @@ module.exports = {
   
   OWNER_NUMBER: "237672620967", // put your phone number here
   
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
+  PREFIX: ",", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "" //put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "Africa/Cameroon" //put your country timeZone....leave blank if u don't know.
 };
