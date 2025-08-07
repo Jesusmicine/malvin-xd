@@ -6,5 +6,5 @@ module.exports = {
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "" //put your country timeZone....leave blank if u don't know.
 };
